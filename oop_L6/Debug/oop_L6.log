@@ -1,0 +1,24 @@
+﻿  MyDate.cpp
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyDate.cpp(174,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyDate.cpp(179,11): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.cpp
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(574,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(582,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(583,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(724,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(845,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(848,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(853,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(856,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyForm.h(866,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyString.cpp
+  Table.cpp
+  Vec.cpp
+  Zakaz.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyString.cpp(91): warning C4172: возвращение адреса локальной или временной переменной : err
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyDate.cpp(143): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\MyDate.cpp(149): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  MyDate.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  oop_L6.vcxproj -> C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\Debug\oop_L6.exe

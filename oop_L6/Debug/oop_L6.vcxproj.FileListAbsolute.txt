@@ -1,0 +1,6 @@
+C:\Users\alla_\Desktop\4 семестр\ооп\oop_L6\oop_L6\Debug\oop_L6.vcxproj.AssemblyReference.cache
+C:\Users\alla_\Desktop\4 семестр\ооп\oop_L6\oop_L6\Debug\oopL6.MyForm.resources
+C:\Users\alla_\Desktop\4 семестр\ооп\oop_L6\oop_L6\Debug\oop_L6.vcxproj.GenerateResource.cache
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\Debug\oop_L6.vcxproj.AssemblyReference.cache
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\Debug\oopL6.MyForm.resources
+C:\Users\alla_\Desktop\учеба\4 семестр\ооп\oop_L6\oop_L6\Debug\oop_L6.vcxproj.GenerateResource.cache
